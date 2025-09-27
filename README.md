@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Portfolio
-👉 <a href="https://pgm-zegerschaeverbeke.github.io/portfolio/index.html" target="_blank" rel="noopener noreferrer">View portfolio!</a>
+👉 [View portfolio!](https://pgm-zegerschaeverbeke.github.io/portfolio/index.html)
 
 *A closer look at myself and my projects.*
 
