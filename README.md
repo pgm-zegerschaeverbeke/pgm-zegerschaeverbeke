@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Contact
-- **Email:** [you@example.com](mailto:you@example.com)
+- **Email:** [zegescha@student.artveldehs.be](mailto:zegescha@student.artveldehs.be)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
