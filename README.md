@@ -16,7 +16,8 @@
 
 **Back-end & CMS**
 - Craft CMS & Twig templating
-- 📚 **Currently learning:** PHP & SQL
+- Node.js & Express
+- 📚 Currently learning: PHP & SQL
 
 **Workflow & Design**
 - Git & GitHub
