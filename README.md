@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Portfolio
-👉 [zeger-portfolio.be](https://zeger-portfolio.be)
+👉 [View portfolio!]([https://zeger-portfolio.be](https://pgm-zegerschaeverbeke.github.io/portfolio/index.html))
 
 *A closer look at myself and my projects.*
 
