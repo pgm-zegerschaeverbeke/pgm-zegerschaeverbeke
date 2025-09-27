@@ -31,7 +31,9 @@
 
 ---
 
-⭐ *Want to know more about me and my work?*  
-Check out my [portfolio website](https://your-portfolio-link) for a closer look at my projects and background.
+## 📂 Portfolio
+👉 [zeger-portfolio.be](https://zeger-portfolio.be)
+
+*A closer look at myself and my projects.*
 
 
