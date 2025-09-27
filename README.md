@@ -28,7 +28,7 @@
 
 ## 📫 Contact
 - **Email:** [zegescha@student.artveldehs.be](mailto:zegescha@student.artveldehs.be)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Zeger Schaeverbeke](https://www.linkedin.com/in/zeger-schaeverbeke/)
 
 ---
 
