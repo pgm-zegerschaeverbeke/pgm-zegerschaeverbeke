@@ -12,12 +12,12 @@
 - GSAP for advanced web animations
 - Basic experience with Rive & Spline (interactive motion design)
 - Very basic knowledge of TypeScript & Angular
-- 📚 **Currently learning:** React
+- 📚 **Currently learning:** React and Vite
 
 **Back-end & CMS**
 - Craft CMS & Twig templating
 - Node.js & Express
-- 📚 Currently learning: PHP & SQL
+- 📚 Currently learning: PHP with Laravel, Laravel Filament, and SQL
 
 **Workflow & Design**
 - Git & GitHub
