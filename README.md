@@ -7,19 +7,19 @@
 ---
 
 ## 🛠️ Tech & Tools
-**Front-end**
+### Front-end
 - HTML • CSS • JavaScript
 - GSAP for advanced web animations
 - Basic experience with Rive & Spline (interactive motion design)
 - Very basic knowledge of TypeScript & Angular
 - 📚 **Currently learning:** React and Vite
 
-**Back-end & CMS**
+### Back-end & CMS
 - Craft CMS & Twig templating
 - Node.js & Express
-- 📚 Currently learning: PHP with Laravel, Laravel Filament, and SQL
+- 📚 **Currently learning:** PHP with Laravel, Laravel Filament, and SQL
 
-**Workflow & Design**
+### Workflow & Design
 - Git & GitHub
 - VS Code
 - Figma
